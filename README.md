@@ -3,7 +3,7 @@ includes code for making custom wordclouds and keyboard heatmaps and code for th
 
 A Twitter bot that can build a word cloud image from the tweets of a Twitter user. The images are uploaded on Imgur. We support only english right now.
 
-You can see it in action here.
+You can see it in action at https://twitter.com/social_visualiz
 
 tweet "@social_visualiz #wordcloud" To generate wordcloud of your tweets.
 tweet "@social_visualiz #wordcloud @user" To generate wordcloud of another user's tweets.
